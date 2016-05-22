@@ -1,2 +1,2 @@
 # hello-world
-Tutorial walkthrough for documentation.
+I'm supposed to write soemthing about myself here... or something...
